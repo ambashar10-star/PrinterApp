@@ -7,25 +7,23 @@ public class App {
         System.out.println("My name is " + name + "and I am " + age + "years old.");
         
      
-        int number1 = 10;
+     int number1 = 10;
      int number2 = 100;
      int sum = 0;
-     
-    //  sum = 50 * 50 + 50;
-    sum = number1 + number2;
-        System.out.println("The sum of the calculation is " + sum);
+     sum = number1 + number2;
+     System.out.println("The sum of the calculation is " + sum);
 
-    int points = 0;
+    // int points = 0;
     // points = points + 1;
-// points++;
+    // points++;
     // System.out.println(points);
-// double number1, number2, results;
-// number1=10;
-// number2= 3;
-// results = number1/number2;
-// // System.out.println(results);
-// System.out.printf("The result is %.2f\n\n", results);
-// System.out.printf("\tMy name is %s and I am  %d years old.", name, age);
+    // double number1, number2, results;
+    // number1=10;
+    // number2= 3;
+    // results = number1/number2;
+    // // System.out.println(results);
+    // System.out.printf("The result is %.2f\n\n", results);
+    // System.out.printf("\tMy name is %s and I am  %d years old.", name, age);
 
     }
 }
