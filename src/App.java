@@ -2,13 +2,12 @@ public class App {
     public static void main(String[] args) throws Exception {
         // Code is written here
         System.out.println("Printer App");
-        String name;
+        String name = "Bashar";
         int age = 30;
-        name = "Bashar";
-        //System.out.println(age);
-        // System.out.print("My name is ");
-        // System.out.println(name);
-     int number1 = 10;
+        System.out.println("My name is " + name + "and I am " + age + "years old.");
+        
+     
+        int number1 = 10;
      int number2 = 100;
      int sum = 0;
      
